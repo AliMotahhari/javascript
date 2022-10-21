@@ -15,7 +15,7 @@ let score = 0;
 let changing_direction = false;
 // Horizontal and Vertical velocity
 let food_x;
-let food_y;
+let food_y;//
 let dx = 10;
 let dy = 0;
 
